@@ -13,10 +13,14 @@
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^10.3.7",
+    "google-spreadsheet": "^3.1.15",
+    "moment": "^2.29.1",
     "next": "^11.1.2",
     "postcss-import": "^14.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "tailwindcss": "^2.2.16"
+    "swr": "^1.0.1",
+    "tailwindcss": "^2.2.16",
+    "uuid": "^8.3.2"
   }
 }
